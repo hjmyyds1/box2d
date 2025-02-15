@@ -1,0 +1,70 @@
+Device:
+
+Device Info:
+MANUFACTURER:Xiaomi DEVICE:corot MODEL:23078RKD5C BRAND:Redmi BOARD:corot HARDWARE:mt6985 SDK_INT:35
+
+Device Interface:
+bluejay
+
+HDR+ Model:
+raven
+
+Shot Mode:
+--
+
+Device ID:
+6
+
+Camera ID:
+0
+
+Sensor ID:
+0
+
+Merge Method:
+自动(-1)
+
+Google Camera Logic:
+自动(0)
+
+FrameCount:
+pref_frame_count_key: -1=>10
+
+Expastro:
+--
+
+Stream OpMode:
+AUTO(0)
+
+Stream Session:
+0. Auto(0)
+
+Image Reader Format:
+自动(0)
+
+ExposureTimeMs:
+50.0
+
+AstroExposureTimeMs:
+--
+
+IsoTime:
+--
+
+HardwareLevel:
+LEVEL_3(3) => LEVEL_3(3)
+
+Preview:
+YUV_420_888(35)
+
+IsC2ALevel3:
+false
+
+Leica:
+false
+
+DCI-P3:
+false
+
+FocusDistance:
+0.12

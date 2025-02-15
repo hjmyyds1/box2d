@@ -1,0 +1,9 @@
+Fix Resolution:
+自动(0) => 自动(0)
+
+HDR+ Formats:
+[RAW_SENSOR(32)]
+Current:
+RAW_SENSOR(32)
+Resolution:
+[4096x3072]
